@@ -132,7 +132,7 @@ What is Tap?
 
 Tap is the DSL used by Loom, a paid developer productivity suite. It compiles shell shortcuts to bash, zsh, and fish with a single source of truth.
 
-    Loom: https://github.com/Taha95-dev/loom
+    !(Loom-v2)[https://buy.polar.sh/polar_cl_zvnuIMcqUEG0ghrgaFfFV9PivHvnI9esOA40D25wvUK]
 
     tapc compiler: part of Loom (C, with IR, linter, and multi-shell codegen)
 
