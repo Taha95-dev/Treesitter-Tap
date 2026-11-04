@@ -1,0 +1,42 @@
+{
+  "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/config.schema.json",
+  "grammars": [
+    {
+      "name": "tap",
+      "camelcase": "Tap",
+      "title": "tap colorscheme",
+      "scope": "source.tap",
+      "file-types": [
+        "tap"
+      ],
+      "injection-regex": "^tap$",
+      "class-name": "TreeSitterTap"
+    }
+  ],
+  "metadata": {
+    "version": "0.1.0",
+    "license": "MIT",
+    "description": "A colorscheme for Tap (DSL of Loom)",
+    "authors": [
+      {
+        "name": "Taha Kashif",
+        "email": "kashiftaha976@gmail.com",
+        "url": "https://github.com/Taha95-dev"
+      }
+    ],
+    "links": {
+      "repository": "https://github.com/tree-sitter/tree-sitter-tap",
+      "funding": ""
+    }
+  },
+  "bindings": {
+    "c": true,
+    "go": true,
+    "java": false,
+    "node": true,
+    "python": true,
+    "rust": true,
+    "swift": true,
+    "zig": false
+  }
+}
